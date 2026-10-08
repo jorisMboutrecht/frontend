@@ -1,0 +1,27 @@
+.nav {
+    height: 100px;
+    width: 600px;
+    background-color: lightblue;
+    border: 4px solid green;
+    border-radius: 18px;
+}
+
+.content {
+    height: 150px;
+    width: 600px;
+    background-color: lightgreen;
+    border: 4px solid blue;
+    border-radius: 18px;
+}
+
+.footer {
+    height: 80px;
+    width: 600px;
+    background-color: lightsalmon;
+    border: 4px solid grey;
+    border-radius: 18px;
+}
+
+#games {
+    font-size: 18px;
+}
